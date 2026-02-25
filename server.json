@@ -1,0 +1,20 @@
+{
+  "name": "prwire-mcp-server",
+  "description": "MCP server for PRWire - the permissionless newswire for crypto and digital assets. Get latest news, search articles, and submit press releases across 4 crypto publications.",
+  "version": "1.0.0",
+  "url": "https://github.com/SoCalStreet/prwire-mcp-server",
+  "tools": [
+    {
+      "name": "get_latest_news",
+      "description": "Get the latest crypto news articles from the PRWire network (4 publications)"
+    },
+    {
+      "name": "search_news",
+      "description": "Search for crypto news articles across the PRWire network"
+    },
+    {
+      "name": "submit_press_release",
+      "description": "Submit a press release for distribution across the PRWire network"
+    }
+  ]
+}
