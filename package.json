@@ -1,5 +1,5 @@
 {
-  "name": "prwire-mcp-server",
+  "name": "@socalstreet/prwire-mcp-server",
   "version": "1.0.0",
   "description": "MCP server for PRWire press release platform",
   "type": "module",
@@ -10,5 +10,10 @@
     "dotenv": "^16.3.0",
     "express": "^4.18.0",
     "zod": "^3.25.0"
+  },
+  "mcpName": "io.github.socalstreet/prwire-mcp-server",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SoCalStreet/prwire-mcp-server.git"
   }
 }
